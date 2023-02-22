@@ -4,7 +4,6 @@
  * _isalpha - Checks for alphabetic character.
  * written by brian
  * @c: character to check
- *
  * return: 1 if character is a letter, 0 if not
  */
 
