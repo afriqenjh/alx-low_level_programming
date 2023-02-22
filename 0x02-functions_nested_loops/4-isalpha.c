@@ -2,11 +2,9 @@
 
 /**
  * _isalpha - Checks for alphabetic character.
- * written by brian
  * @c: character to check
- * return: 1 if character is a letter, 0 if not
+ * Return: 1 if character is a letter, otherwise 0
  */
-
 int _isalpha(int c)
 {
 	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
