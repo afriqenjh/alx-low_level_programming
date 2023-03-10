@@ -3,7 +3,7 @@
 	#include <ctype.h>
 	#include <string.h>
 	/**
-	 * check_num - check - string there are digit
+	 * check_num -adds positive numbers.
 	 * @str: array str
 	 *
 	 * Return: Always 0 (Success)
